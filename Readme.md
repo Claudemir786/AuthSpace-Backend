@@ -1,4 +1,4 @@
-# UserAuthAPI
+# AuthSpace-Backend
 
 API REST de gerenciamento de usuários desenvolvida com Node.js, Express e TypeScript.
 
